@@ -34,7 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.Exercise5_1_Chetsarit_M">
+  <component name="RunManager" selected="Python.Exercise5_2_Chetsarit_M">
     <configuration name="Exercise4_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise5_1_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise5_1_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,9 +77,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercise5_2_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercise5_1_Chetsarit_M" />
+        <item itemvalue="Python.Exercise5_2_Chetsarit_M" />
         <item itemvalue="Python.Exercise4_Chetsarit_M" />
       </list>
     </recent_temporary>
@@ -98,46 +119,62 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="427" y="23" key="#Exercise5_1_Chetsarit_M" timestamp="1584992049500">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="427" y="23" key="#Exercise5_1_Chetsarit_M/0.23.1440.808@0.23.1440.808" timestamp="1584992049500" />
+    <state x="427" y="23" key="#Exercise5_2_Chetsarit_M" timestamp="1584992278591">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="427" y="23" key="#Exercise5_2_Chetsarit_M/0.23.1440.808@0.23.1440.808" timestamp="1584992278591" />
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584992062628">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1584992062628" />
+    <state x="457" y="217" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584992275947">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="457" y="217" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.808@0.23.1440.808" timestamp="1584992275947" />
     <state x="228" y="29" key="CommitChangelistDialog2" timestamp="1584642134121">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="228" y="29" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1584642134121" />
-    <state width="1419" height="207" key="GridCell.Tab.0.bottom" timestamp="1584991309159">
+    <state width="1419" height="258" key="GridCell.Tab.0.bottom" timestamp="1584992297841">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584991309159" />
+    <state width="1419" height="258" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
     <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1584685212689" />
-    <state width="1419" height="207" key="GridCell.Tab.0.center" timestamp="1584991309158">
+    <state width="1419" height="258" key="GridCell.Tab.0.center" timestamp="1584992297841">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1584991309158" />
+    <state width="1419" height="258" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
     <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1584685212688" />
-    <state width="1419" height="207" key="GridCell.Tab.0.left" timestamp="1584991309158">
+    <state width="1419" height="258" key="GridCell.Tab.0.left" timestamp="1584992297840">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1584991309158" />
+    <state width="1419" height="258" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1584992297840" />
     <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1584685212687" />
-    <state width="1419" height="207" key="GridCell.Tab.0.right" timestamp="1584991309159">
+    <state width="1419" height="258" key="GridCell.Tab.0.right" timestamp="1584992297841">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1584991309159" />
+    <state width="1419" height="258" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
     <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1584685212688" />
-    <state width="1419" height="258" key="GridCell.Tab.1.bottom" timestamp="1584989897523">
+    <state width="1419" height="258" key="GridCell.Tab.1.bottom" timestamp="1584992297842">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584989897523" />
-    <state width="1419" height="258" key="GridCell.Tab.1.center" timestamp="1584989897522">
+    <state width="1419" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584992297842" />
+    <state width="1419" height="258" key="GridCell.Tab.1.center" timestamp="1584992297841">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1584989897522" />
-    <state width="1419" height="258" key="GridCell.Tab.1.left" timestamp="1584989897522">
+    <state width="1419" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
+    <state width="1419" height="258" key="GridCell.Tab.1.left" timestamp="1584992297841">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1584989897522" />
-    <state width="1419" height="258" key="GridCell.Tab.1.right" timestamp="1584989897523">
+    <state width="1419" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
+    <state width="1419" height="258" key="GridCell.Tab.1.right" timestamp="1584992297841">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1584989897523" />
+    <state width="1419" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
     <state x="397" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1584989647092">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
