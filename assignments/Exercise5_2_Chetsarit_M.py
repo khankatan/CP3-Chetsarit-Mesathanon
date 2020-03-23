@@ -1,5 +1,7 @@
 print("===== Calculate Velocity of Cars =====")
-s = int(input("Distance : "))
-t = int(input("Time : "))
+s = float(input("Distance (km) : "))
+t = float(input("Time (hr) : "))
 v = s/t
-print("Velocity :",v)
+print("======================================")
+print("Velocity :",v,"km/hr")
+print("======================================")
