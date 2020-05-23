@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e938996-e2f9-4fa2-bf23-ea7e62d2185c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise5_1_Chetsarit_M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,29 +33,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.Exercise5_2_Chetsarit_M">
-    <configuration name="Exercise4_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise4_Chetsarit_M.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercise8_Chetsarit_M">
     <configuration name="Exercise5_1_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +57,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise5_2_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise8_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -88,20 +69,106 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise8_Chetsarit_M.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mario_level_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/Mario-Level-1-master 2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Mario-Level-1-master 2/mario_level_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/Mario-Level-1-master 2/data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Mario-Level-1-master 2/data/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testGPA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testGPA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercise5_2_Chetsarit_M" />
-        <item itemvalue="Python.Exercise4_Chetsarit_M" />
+        <item itemvalue="Python.Exercise8_Chetsarit_M" />
+        <item itemvalue="Python.testGPA" />
+        <item itemvalue="Python.test login" />
+        <item itemvalue="Python.mario_level_1 (1)" />
+        <item itemvalue="Python.setup" />
       </list>
     </recent_temporary>
   </component>
@@ -139,45 +206,58 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="228" y="29" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1584642134121" />
-    <state width="1419" height="258" key="GridCell.Tab.0.bottom" timestamp="1584992297841">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1590248928359">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590248928359" />
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1585103997523" />
     <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1584685212689" />
-    <state width="1419" height="258" key="GridCell.Tab.0.center" timestamp="1584992297841">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1590248928358">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
+    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1590248928358" />
+    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1585103997523" />
     <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1584685212688" />
-    <state width="1419" height="258" key="GridCell.Tab.0.left" timestamp="1584992297840">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1590248928358">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1584992297840" />
+    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1590248928358" />
+    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1585103997522" />
     <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1584685212687" />
-    <state width="1419" height="258" key="GridCell.Tab.0.right" timestamp="1584992297841">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1590248928359">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
+    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1590248928359" />
+    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1585103997523" />
     <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1584685212688" />
-    <state width="1419" height="258" key="GridCell.Tab.1.bottom" timestamp="1584992297842">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1419" height="256" key="GridCell.Tab.1.bottom" timestamp="1590247836745">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584992297842" />
-    <state width="1419" height="258" key="GridCell.Tab.1.center" timestamp="1584992297841">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590247836745" />
+    <state width="1419" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584994243391" />
+    <state width="1419" height="256" key="GridCell.Tab.1.center" timestamp="1590247836744">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
-    <state width="1419" height="258" key="GridCell.Tab.1.left" timestamp="1584992297841">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1590247836744" />
+    <state width="1419" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1584994243391" />
+    <state width="1419" height="256" key="GridCell.Tab.1.left" timestamp="1590247836744">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
-    <state width="1419" height="258" key="GridCell.Tab.1.right" timestamp="1584992297841">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1590247836744" />
+    <state width="1419" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1584994243390" />
+    <state width="1419" height="256" key="GridCell.Tab.1.right" timestamp="1590247836745">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1584992297841" />
-    <state x="397" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1584989647092">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1590247836745" />
+    <state width="1419" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1584994243391" />
+    <state x="221" y="64" key="SettingsEditor" timestamp="1590240786531">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state x="397" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1584989647092" />
+    <state x="221" y="64" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1590240786531" />
+    <state x="397" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1590240488760">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="397" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1590240488760" />
+    <state x="397" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1585053501231" />
   </component>
 </project>
