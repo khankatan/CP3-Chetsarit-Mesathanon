@@ -1,9 +1,18 @@
-print("===== L O N G I N =====")
+print("========== L O N G I N ==========")
 user1 = input("Username : ")
 pass1 = input("Password : ")
-print("----- ----------- -----")
-if user1 == "chetsarit" and pass1 == "71037":
-    print("Welcome to My world")
+timeLog = 3
+while user1 != "admin" or pass1 != "1234":
+    timeLog -= 1
+    print("---------- ----------- ----------")
+    if timeLog == 0:
+        print("Wait 15 minutes")
+        break
+    print("Username or Password Incorrect!!")
+    print("Please enter again")
+    user1 = input("Username : ")
+    pass1 = input("Password : ")
 else:
-    print("Error!")
-print("===== =========== ======")
+    print("---------- ----------- ----------")
+    print("Done . . .")
+print("========== =========== ===========")
