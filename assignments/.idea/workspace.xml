@@ -35,7 +35,28 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.Exercise11_Chetsarit_M">
+    <configuration name="Exercise11_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise11_Chetsarit_M.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Exercise5_1_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,34 +162,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testGPA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testGPA.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise11_Chetsarit_M" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.test login" />
         <item itemvalue="Python.Exercise8_Chetsarit_M" />
         <item itemvalue="Python.testFor" />
-        <item itemvalue="Python.testGPA" />
       </list>
     </recent_temporary>
   </component>
@@ -210,28 +210,28 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="228" y="29" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1584642134121" />
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1590325217708">
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1590329368201">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590325217708" />
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590329368201" />
     <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1585103997523" />
     <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1584685212689" />
-    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1590325217708">
+    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1590329368200">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1590325217708" />
+    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1590329368200" />
     <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1585103997523" />
     <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1584685212688" />
-    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1590325217707">
+    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1590329368199">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1590325217707" />
+    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1590329368199" />
     <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1585103997522" />
     <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1584685212687" />
-    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1590325217708">
+    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1590329368200">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1590325217708" />
+    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1590329368200" />
     <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1585103997523" />
     <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1584685212688" />
     <state width="1419" height="256" key="GridCell.Tab.1.bottom" timestamp="1590250552024">
@@ -254,6 +254,10 @@
     </state>
     <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1590250552024" />
     <state width="1419" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1584994243391" />
+    <state x="350" y="154" key="RollbackChangesDialog" timestamp="1590326458916">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="350" y="154" key="RollbackChangesDialog/0.23.1440.805@0.23.1440.805" timestamp="1590326458916" />
     <state x="221" y="64" key="SettingsEditor" timestamp="1590240786531">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
