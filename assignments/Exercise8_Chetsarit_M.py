@@ -12,7 +12,7 @@ if user1 == "chetsarit" and pass1 == "71037":
     print("4) WATER MALON JUICE : 55  THB")
     print("---------- ----------- ----------")
     productInput = int(input("SELECT PRODUCE NUMBER : "))
-    while range(1,4):
+    while productInput:
         if productInput == 1:
             itemInput = int(input("HOW MANY DO YOU NEED? : "))
             print("TOTAL AMOUNT :", 100*itemInput, "THB")

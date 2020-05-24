@@ -1,5 +1,5 @@
 score = int(input("YOUR SCORE : "))
-if score > 100:
+if score > 100 or score < 0:
     print("ERROR!!!")
 elif score >= 80:
     print("GRAD A")
