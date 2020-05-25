@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e938996-e2f9-4fa2-bf23-ea7e62d2185c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise8_Chetsarit_M.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise8_Chetsarit_M.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.Exercise11_Chetsarit_M">
+  <component name="RunManager" selected="Python.test">
     <configuration name="Exercise11_Chetsarit_M" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +100,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="_pydev_execfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/pydev/_pydev_imps" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,34 +163,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testFor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="assignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testFor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercise11_Chetsarit_M" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.test login" />
         <item itemvalue="Python.Exercise8_Chetsarit_M" />
-        <item itemvalue="Python.testFor" />
+        <item itemvalue="Python._pydev_execfile" />
+        <item itemvalue="Python.Exercise11_Chetsarit_M" />
       </list>
     </recent_temporary>
   </component>
@@ -210,49 +211,57 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="228" y="29" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1584642134121" />
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1590329368201">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1590400013623">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590329368201" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590400013623" />
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590396680628" />
     <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1585103997523" />
     <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1584685212689" />
-    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1590329368200">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1590400013622">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1590329368200" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590400013622" />
+    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1590396680627" />
     <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1585103997523" />
     <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1584685212688" />
-    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1590329368199">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1590400013621">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1590329368199" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590400013621" />
+    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1590396680626" />
     <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1585103997522" />
     <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1584685212687" />
-    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1590329368200">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1590400013622">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1590329368200" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590400013622" />
+    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1590396680628" />
     <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1585103997523" />
     <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1584685212688" />
-    <state width="1419" height="256" key="GridCell.Tab.1.bottom" timestamp="1590250552024">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="302" key="GridCell.Tab.1.bottom" timestamp="1590399781309">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590250552024" />
+    <state width="1419" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590399781309" />
+    <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1590349806260" />
     <state width="1419" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584994243391" />
-    <state width="1419" height="256" key="GridCell.Tab.1.center" timestamp="1590250552023">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="302" key="GridCell.Tab.1.center" timestamp="1590399781308">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1590250552023" />
+    <state width="1419" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590399781308" />
+    <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1590349806259" />
     <state width="1419" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1584994243391" />
-    <state width="1419" height="256" key="GridCell.Tab.1.left" timestamp="1590250552022">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="302" key="GridCell.Tab.1.left" timestamp="1590399781308">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1590250552022" />
+    <state width="1419" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590399781308" />
+    <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1590349806259" />
     <state width="1419" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1584994243390" />
-    <state width="1419" height="256" key="GridCell.Tab.1.right" timestamp="1590250552024">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1419" height="302" key="GridCell.Tab.1.right" timestamp="1590399781308">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1590250552024" />
+    <state width="1419" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590399781308" />
+    <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1590349806260" />
     <state width="1419" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1584994243391" />
     <state x="350" y="154" key="RollbackChangesDialog" timestamp="1590326458916">
       <screen x="0" y="23" width="1440" height="805" />
@@ -262,10 +271,10 @@
       <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state x="221" y="64" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1590240786531" />
-    <state x="397" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1590240488760">
+    <state x="397" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1590396660688">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state x="397" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1590240488760" />
+    <state x="397" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1590396660688" />
     <state x="397" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1585053501231" />
     <state x="385" y="152" width="670" height="676" key="search.everywhere.popup" timestamp="1590311113771">
       <screen x="0" y="23" width="1440" height="805" />
